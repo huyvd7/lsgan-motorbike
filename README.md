@@ -46,3 +46,4 @@ I'm pretty sure that no Ghost Rider's vehicle included in the training dataset! 
 
 # Code
 Available soon!
+<img src=https://profile-counter.glitch.me/huyvd7/count.svg width=0 /></div>
